@@ -1,5 +1,6 @@
 **What is MInecraft ?**
 Minecraft is a sandbox video game developed by Mojang Studios.
+
 i mean yaar ye game hi jisme app kuch bhi banasakte ho aur kar sakte ho*
 
 **what is minecraft java / what is minecraft java and minecraft bedrock?
