@@ -7,6 +7,7 @@ i mean yaar ye game hi jisme app kuch bhi banasakte ho aur kar sakte ho*
 
 > java : the one and only , available for pc to play and is flexible for players to use
 > bedrock :  it includes minecraft platforms like MCPE , win 10 edition , play station and xbox , it supports cross platform meaning if you are on MCPE you can play with your friends on xbox , ps etc
+> explaination by omgchad [Minecraft VS Bedrock](https://www.youtube.com/watch?v=9MmMd6he_a8)
 
 **what is minecraft launcher and minecraft?**
 >its like epic games laucher ,
@@ -19,13 +20,13 @@ i mean yaar ye game hi jisme app kuch bhi banasakte ho aur kar sakte ho*
 
 **how to play and use the tlauncher ?**
 > currently we support only java edition of the game
-> download launcher here https://tlauncher.org/en/
+> download launcher here [Tlauncher.org](https://tlauncher.org/en/)
 > follow this tutorial 
-> https://www.youtube.com/watch?v=CyGxzIvR1XY
+> [Tlauncher Tutorial](https://www.youtube.com/watch?v=CyGxzIvR1XY)
 
 **OK so i started minecraft now what to do ?**
 > Go and watch ujjwal's minecraft videos from beginning 
-> https://www.youtube.com/playlist?list=PL8vL-_f27zDS2WPNkz0tP0r30JzE8YU_h)
+> [TechnoGamerz Minecraft series](https://www.youtube.com/playlist?list=PL8vL-_f27zDS2WPNkz0tP0r30JzE8YU_h)
 
 
 **can we play from mcpe {minecraft pocket edition } on ujjwal's server ?**
@@ -56,7 +57,7 @@ i mean yaar ye game hi jisme app kuch bhi banasakte ho aur kar sakte ho*
 > just ignore brackets`[ ]` from above both commands
 
 __**I dont have pc how do I play then**__
-> you can download tlauncher from https://tlauncher.org/en/
+> you can download tlauncher from [Tlauncher.org](https://tlauncher.org/en/)
 
 **what is claim / claimblocks / golden shovel**
 > claims protect your home/ land from others 
@@ -68,7 +69,7 @@ __**I dont have pc how do I play then**__
 > you get claimblocks upon spending time in server
 > 
 > golden shovel is a part of minecraft tools , but it has another use of claiming land {plugin feature}
-> https://www.youtube.com/watch?v=C58PZSzBi-g
+> [Grief-Prevention-tutoial](https://www.youtube.com/watch?v=C58PZSzBi-g)
 
 **what is voting and how to vote**?
 
@@ -84,7 +85,7 @@ __**I dont have pc how do I play then**__
 > 
 > visit each website
 > step 1 add your minecraft name in the name field 
-> setp 2 complete captcha{all 3 sites} and tick the lil box{only on 3rd site}  
+> step 2 complete captcha{all 3 sites} and tick the lil box{only on 3rd site}  
 > step 3 click vote
 > step 4 the page will get updated and you will see 'you voted , or you already voted'
 > 
