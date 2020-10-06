@@ -1,19 +1,21 @@
-> **What is MInecraft ?**
+**What is MInecraft ?**
 Minecraft is a sandbox video game developed by Mojang Studios.
 i mean yaar ye game hi jisme app kuch bhi banasakte ho aur kar sakte ho*
 
-> **what is minecraft java / what is minecraft java and minecraft bedrock?
+**what is minecraft java / what is minecraft java and minecraft bedrock?
  minecraft can be mainly categorized in 2 types**
 
- java : the one and only , available for pc to play and is flexible for players to use
- bedrock :  it includes minecraft platforms like MCPE , win 10 edition , play station and xbox , it supports cross platform meaning if you are on MCPE you can play with your friends on xbox , ps etc
+> java : the one and only , available for pc to play and is flexible for players to use
+> bedrock :  it includes minecraft platforms like MCPE , win 10 edition , play station and xbox , it supports cross platform meaning if you are on MCPE you can play with your friends on xbox , ps etc
 
-> **what is minecraft launcher and minecraft?**
-its like epic games laucher ,
-here , you have to start minecraft from the launcher
+**what is minecraft launcher and minecraft?**
+>its like epic games laucher ,
+> here , you have to start minecraft from the launcher
 
 **what is Tlauncher ?**
-> tlaucher is a modified version of the official minecraft launcher , which allows you to play minecraft without buying it {you can only play on cracked servers if you dont have premium MC account }
+> tlaucher is a modified version of the official minecraft launcher ,
+> which allows you to play minecraft without buying it
+> {you can only play on cracked servers if you dont have premium MC account }
 
 **how to play and use the tlauncher ?**
 > currently we support only java edition of the game
