@@ -70,25 +70,25 @@ __**I dont have pc how do I play then**__
 > golden shovel is a part of minecraft tools , but it has another use of claiming land {plugin feature}
 > https://www.youtube.com/watch?v=C58PZSzBi-g
 
-> **what is voting and how to vote**?
+**what is voting and how to vote**?
 
-voting helps server to get promoted on different advertising websites 
-on every vote you do the server gets promoted by points
-`Lets make ujjwal's server OP go vote!!`
-our server is being advertised on 2 different websites 
-you need to vote on all 3 website to get a `vote crate key`
-websites to vote at are
- 1.http://topminecraftservers.org/vote/13532 
-2.https://minecraftservers.org/vote/593784 
-3.https://minecraft-mp.com/server/267375/vote/
-
-visit each website
-step 1 add your minecraft name in the name field 
-setp 2 complete captcha{all 3 sites} and tick the lil box{only on 3rd site}  
-step 3 click vote
-step 4 the page will get updated and you will see 'you voted , or you already voted'
-
-you will get rewards in server for voting
+> voting helps server to get promoted on different advertising websites 
+> on every vote you do the server gets promoted by points
+> `Lets make ujjwal's server OP go vote!!`
+> our server is being advertised on 2 different websites 
+> you need to vote on all 3 website to get a `vote crate key`
+> websites to vote at are
+> 1.[TopMCservers](http://topminecraftservers.org/vote/13532) 
+> 2.[MCservers](https://minecraftservers.org/vote/593784) 
+> 3.[MC-MP](https://minecraft-mp.com/server/267375/vote/)
+> 
+> visit each website
+> step 1 add your minecraft name in the name field 
+> setp 2 complete captcha{all 3 sites} and tick the lil box{only on 3rd site}  
+> step 3 click vote
+> step 4 the page will get updated and you will see 'you voted , or you already voted'
+> 
+> you will get rewards in server for voting
 
 **what are Crates and keys ?**
 > vote crates and keys are automated rewarding system so we dont have to give rewards manually to every individual 
